@@ -1,2 +1,0 @@
-# Invitacion
-GitHub Pages
